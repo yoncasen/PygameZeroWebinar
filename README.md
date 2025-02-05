@@ -11,29 +11,14 @@ Hoş geldiniz, kahraman! **Space Journey**, reflekslerinizi ve stratejik yetenek
 
 ### Kontroller:
 - **Fare:** Uzay geminizi kontrol etmek için hareket ettirin.
-- **Sol Tıklama:** Lazer ateşleyin ve düşmanları alt edin!
-- **Enter:** Menüye geri dönmek için kullanın.
-- **Yukarı/Aşağı Oklar:** Menüde seçenekler arasında gezin.
-- **Enter Tuşu (Menüde):** Seçimi onaylayın.
+- **R:** Oyunu yeniden başlatmak için kullanın.
 
 ### Amaç:
 - Mümkün olduğunca uzun süre hayatta kalın.
 - Meteorlar ve düşmanlar arasından yolunuzu açın.
-- Puanınızı artırarak liderlik tablosunda yerinizi alın.
 
 ---
 
-## 🛠️ Özellikler
-
-- **3 Farklı Uzay Gemisi:** Kendinize en uygun uzay gemisini seçin. Hız mı istersiniz yoksa dayanıklılık mı? Karar sizin!
-- **Görsel Efektler ve Sesler:** Neon lazerler ve epik bir arka plan müziği eşliğinde uzayın tadını çıkarın.
-- **Oyun Modları:** 
-  - Menü: Uzay geminizi ve ayarlarınızı seçin.
-  - Oyun: Aksiyon başlasın!
-  - Talimatlar: Yeni başlayanlar için kısa bir rehber.
-  - Oyun Sonu: Skorunuzu görün ve tekrar deneyin.
-
----
 
 ## 🖥️ Gereksinimler
 
@@ -54,13 +39,21 @@ Oyunu çalıştırmak için aşağıdaki gereksinimlere ihtiyacınız var:
 2. Gereksinimlerinizi yükleyin (Python ve Pgzero).
 3. Oyunu başlatmak için şu komutu çalıştırın:
   ```bash
-  pgzrun space_journey.py
+  pgzrun SpaceGame.py
   ``` 
 
 ---
 
 ## 🛸 Gelecek Planlar
 
+- [ ] Oyun Modları
+        - Menü: Uzay geminizi ve ayarlarınızı seçin.
+        - Oyun: Aksiyon başlasın!
+        - Talimatlar: Yeni başlayanlar için kısa bir rehber.
+        - Oyun Sonu: Skorunuzu görün ve tekrar deneyin.
+- [ ] 3 Farklı Uzay Gemisi seçimi ve satın alma
+- [ ] Düşmanları yok edecek bir ateşleme mekanizması ve patlama animasyonları
+- [ ] Neon lazerler ve epik bir arka plan müziği
 - [ ] Uzay gemisinin döner animasyonu 🎥
 - [ ] Daha güçlü düşmanlar ve boss seviyeleri! 💀
 - [ ] Farklı oyun modları (Hayatta Kalma, Zamana Karşı Yarış vb.) ⏱️
