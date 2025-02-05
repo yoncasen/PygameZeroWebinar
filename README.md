@@ -47,10 +47,10 @@ Oyunu çalıştırmak için aşağıdaki gereksinimlere ihtiyacınız var:
 ## 🛸 Gelecek Planlar
 
 - [ ] Oyun Modları
-        - Menü: Uzay geminizi ve ayarlarınızı seçin.
-        - Oyun: Aksiyon başlasın!
-        - Talimatlar: Yeni başlayanlar için kısa bir rehber.
-        - Oyun Sonu: Skorunuzu görün ve tekrar deneyin.
+  - Menü: Uzay geminizi ve ayarlarınızı seçin.
+  - Oyun: Aksiyon başlasın!
+  - Talimatlar: Yeni başlayanlar için kısa bir rehber.
+  - Oyun Sonu: Skorunuzu görün ve tekrar deneyin.
 - [ ] 3 Farklı Uzay Gemisi seçimi ve satın alma
 - [ ] Düşmanları yok edecek bir ateşleme mekanizması ve patlama animasyonları
 - [ ] Neon lazerler ve epik bir arka plan müziği
